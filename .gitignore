@@ -30,6 +30,7 @@
 *.txt
 *.lst
 application.*
+*_copy.pde
 *.bak
 ._bak/
 doxDocs/
