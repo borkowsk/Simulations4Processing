@@ -1,6 +1,7 @@
-Additional functionalities for simulation application templates
-================================================================
-### @date 2024-09-26 (last modification)
+# Additional functionalities for simulation application templates
+### @date 2025-04-29 (last modification)
+
+## CONTENTS
 
    *   _Optionals.pde_  :  File forcing all "optionales" to be loaded from this folder 
 
@@ -58,7 +59,16 @@ Additional functionalities for simulation application templates
    
    *   _uVideo.pde_  :  Tool for made video from simulation 
    
-   ![image](more_docs/screen000987,00000.PNG)
+   
+## Where it can work?
+
+Tested under 
+* Ubuntu from 18.04 up to 20.04 with Processing 3.x
+* Windows 10 and 11 with Processing 4.x
+
+## See illustration below:
+
+![image](more_docs/screen000987,00000.PNG)
    
 
 
